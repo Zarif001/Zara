@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Рубашка из смеси льна и хлопка",
+        "price": 2999,
+        "img": "images/img/shirt.png"
+    },
+    {
+        "id": 2,
+        "name": "Брюки чинос Skinny Fit",
+        "price": 1999,
+        "img": "images/img/jeans.png"
+    },
+    {
+        "id": 3,
+        "name": "Футболка из смеси льна и хлопка",
+        "price": 1499,
+        "img": "images/img/t-shirt.png"
+    },
+    {
+        "id": 4,
+        "name": "Замужные брюки комфортной посадки",
+        "price": 2199,
+        "img": "images/img/jeans-1.png"
+    },
+    {
+        "id": 5,
+        "name": "Мини платье из сатина",
+        "price": 3999,
+        "img": "/images/img/dress.png"
+    },
+    {
+        "id": 6,
+        "name": "Юбка-шорты с разрезом ",
+        "price": 3599,
+        "img": "/images/img/skirt.png"
+    },
+    {
+        "id": 7,
+        "name": "СУМКА С ЦЕПОЧКОЙ Cумка с цепочкой",
+        "price": 2999,
+        "img": "/images/img/bag.png"
+    },
+    {
+        "id": 8,
+        "name": "Джинсы Wide Leg",
+        "price": 3999,
+        "img": "/images/img/jeans-women.png"
+    },
+    {
+        "id": 9,
+        "name": "Футболка в полоску",
+        "price": 1299,
+        "img": "/images/img/kids-t-shirt.png"
+    },
+    {
+        "id": 10,
+        "name": "Джинсы Balloon Fit",
+        "price": 2699,
+        "img": "/images/img/kids-jeans.png"
+    },
+    {
+        "id":11 ,
+        "name": "Футболка в принтом 'Смурфики' ",
+        "price": 1399,
+        "img": "/images/img/kids-t-shirt-2.png"
+    },
+    {
+        "id":12 ,
+        "name": "Стеганая Джинсовая куртка в стиле преппи",
+        "price": 3555,
+        "img": "/images/img/kids-jacket.png"
+    },
+    {
+        "id": 13,
+        "name": "Духи Tuberose Winter 90 ml",
+        "price": 1699,
+        "img": "/images/img/perfume.png"
+    },
+    {
+        "id": 14,
+        "name": "Духи Wonder Rose Summer 90 ml",
+        "price": 1699,
+        "img": "/images/img/perfume-1.png"
+    },
+    {
+        "id": 15,
+        "name": "Духи Tuberose 30 ml",
+        "price": 999,
+        "img": "/images/img/perfume-2.png"
+    },
+    {
+        "id": 16,
+        "name": "Духи Orchid 90 ml",
+        "price": 1699,
+        "img": "/images/img/perfume-3.png"
+    }
+]
