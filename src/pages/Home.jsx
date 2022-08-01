@@ -86,7 +86,7 @@ function Home({ searchValue, setSearchValue, onChangeInput, items, addToCart, is
                     <h1 className='mb-10'> {searchValue ? `Поиск по запросу: "${searchValue}"` : 'Все товары'} </h1>
 
                 </div>
-                <div className="search-block d-flex">
+                <div className="search-block d-flex mb-15">
                     <img src="/images/search.svg" alt="" />
                     {searchValue && <img onClick={() => setSearchValue('')} src="/images/crossX.svg " alt="" className="cross cu-p" />}
                     <input onChange={onChangeInput} value={searchValue} placeholder="Поиск..." type="text" />
