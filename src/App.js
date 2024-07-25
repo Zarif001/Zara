@@ -102,10 +102,6 @@ function App() {
         />
         <Header onClickCart={() => setCart(true)} />
 
-       
-     
-  
-
         <Routes>
           <Route path="/" element={
             <Home
